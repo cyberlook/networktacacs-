@@ -10,5 +10,5 @@ sudo apt-get install tacacs+
 mkdir tmpdir
 cd tmpdir/
 git clone https://github.com/cyberlook/networktacacs-.git
-udo cp -rfpv networktacacs-/tac_plus.conf /etc/tacacs+/
+sudo cp -rfpv networktacacs-/tac_plus.conf /etc/tacacs+/
 ```
