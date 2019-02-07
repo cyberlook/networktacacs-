@@ -1,7 +1,9 @@
 # networktacacs-
 
 ## 1.installation tacacs+
+```
 sudo apt-get install tacacs+
+```
 
 ## 2.Edit tac_plus Configuration File
 ```
